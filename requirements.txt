@@ -1,0 +1,9 @@
+streamlit>=1.38,<2
+pandas>=2.0,<3
+numpy>=1.26,<3
+scikit-learn>=1.4,<2
+matplotlib>=3.8,<4
+plotly>=5.22,<7
+wordcloud>=1.9,<2
+requests>=2.31,<3
+python-dotenv>=1.0,<2
